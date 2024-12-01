@@ -1,0 +1,17 @@
+Resource Type,Count,Character Count
+Patient,1,3755
+Encounter,106,196534
+Condition,46,53791
+DiagnosticReport,167,367008
+DocumentReference,106,316883
+Claim,125,286178
+ExplanationOfBenefit,125,902118
+CareTeam,7,12511
+CarePlan,7,14294
+Device,2,2013
+SupplyDelivery,20,14850
+MedicationRequest,19,28016
+Procedure,104,103896
+Observation,542,652401
+Immunization,12,11544
+Provenance,1,90257

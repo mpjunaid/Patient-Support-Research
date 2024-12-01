@@ -1,0 +1,52 @@
+--------------------------------------------------------------------
+Question1:What is the name of the patient?
+Answer: The patient's name is Alfonso758 Bins636. 
+
+--------------------------------------------------------------------
+--------------------------------------------------------------------
+Question2:What is patients age?
+Answer: Based on the patient's birth date of 1959-01-11, Alfonso758 Bins636 is **64 years old**. 
+
+--------------------------------------------------------------------
+--------------------------------------------------------------------
+Question3:Is he married?
+Answer: Yes, his marital status is listed as "Married". 
+
+--------------------------------------------------------------------
+--------------------------------------------------------------------
+Question4:What is patient gender?
+Answer: The patient's gender is **male**. 
+
+--------------------------------------------------------------------
+--------------------------------------------------------------------
+Question5:what are his current medication?
+Answer: Based on the provided patient information, Alfonso758 Bins636 is currently taking:
+
+* **Simvastatin 10 MG Oral Tablet** (active) for Hyperlipidemia
+* **lisinopril 10 MG Oral Tablet** (active) for Essential hypertension
+* **Hydrochlorothiazide 25 MG Oral Tablet**  (active) for Essential hypertension 
+
+
+Let me know if you have any other questions. 
+
+--------------------------------------------------------------------
+--------------------------------------------------------------------
+Question6:Who are his doctors?
+Answer: Based on the provided patient information, Alfonso758 Bins636 has been seen by two doctors:
+
+* **Dr. Brandon214 Gerlach374**
+* **Dr. Anthony633 Toy286** 
+
+
+Let me know if you have any other questions!
+--------------------------------------------------------------------
+--------------------------------------------------------------------
+Question7:Why was he given the medicines?
+Answer: Based on the provided patient information, Alfonso758 Bins636 was given the following medications for these reasons:
+
+* **Simvastatin 10 MG Oral Tablet:**  Given for **Hyperlipidemia**. This means he likely has high cholesterol.
+* **lisinopril 10 MG Oral Tablet** and **Hydrochlorothiazide 25 MG Oral Tablet:** Given for **Essential hypertension (disorder)**, meaning he has high blood pressure.
+
+
+Please note that this information is based on the limited data provided. A full understanding of his medical history and current condition would require consulting with a healthcare professional.
+--------------------------------------------------------------------
